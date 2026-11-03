@@ -17,8 +17,7 @@ Tecnologías: Python, pandas, numpy, matplotlib, seaborn, scipy, Jupyter Noteboo
 
 # 📞 Identificación de Operadores Ineficaces — CallMeMaybe
 
-Nota de confidencialidad:
-Por motivos de seguridad y protección de datos, el nombre de la empresa y ciertos detalles contextuales han sido adaptados. El análisis refleja la metodología utilizada y los resultados obtenidos, preservando la confidencialidad de la información original.
+Nota: Proyecto del programa Data Analyst, con datos de un caso práctico.
 
 ## 📌 Contexto
 
